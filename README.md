@@ -1,5 +1,6 @@
 # emojipedia-react
-A simple React page, made this to practice React props.
+A simple React page, made this to practice React props. 🙏💜
+<br>
 Created with CodeSandbox
 
 
